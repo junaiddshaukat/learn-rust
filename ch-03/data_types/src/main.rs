@@ -94,6 +94,14 @@ fn main() {
     println!(" The first element of the array is {first_ele}")
 
 
+    println!("i8 min: {}", i8::MIN);
+    println!("i8 max: {}", i8::MAX);
+    println!("u8 min: {}", u8::MIN);
+    println!("u8 max: {}", u8::MAX);
+    println!("i32 min: {}", i32::MIN);
+    println!("i32 max: {}", i32::MAX);
+    println!("u32 min: {}", u32::MIN);
+    println!("u32 max: {}", u32::MAX);
 
 
 }
