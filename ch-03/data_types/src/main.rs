@@ -44,7 +44,7 @@ fn main() {
     //------------------------Numeric Operaters---------------------------------------------------------
 
     let add = 4 + 4;
-    let sub = 43 - 3;
+    let sub = 43 - 3; 
     let reminder = 5 % 2;
     let float = 5 / 3;
 
