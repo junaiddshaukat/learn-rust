@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+   // We use the refrencing and borrowing for the ownership because it is the better approach
 }
