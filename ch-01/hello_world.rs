@@ -13,4 +13,9 @@ let result = num * (num + 1);
 
 println!("The result of {} multiplied by {} is {}", num, num + 1, result);
 
+let a = 5;
+let res = a*4-3;
+
+println!("the valuse of a is {a} and the value of res is {res}");
+
 }
